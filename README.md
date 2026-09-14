@@ -27,45 +27,72 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
 ### 💻 Programming & Query Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" alt="MySQL"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="70" height="70" alt="SQL Server"/>
 </p>
 
-### 📊 Data Analytics & Visualization
+### 📊 Data Analytics & Data Engineering
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45" height="45" alt="Plotly"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="70" height="70" alt="Pandas"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70" alt="NumPy"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70" alt="Machine Learning"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70" height="70" alt="Jupyter Notebook"/>
 </p>
 
-### 📈 Business Intelligence
+**EDA • Data Cleaning • Data Preprocessing • Data Validation • Statistical Analysis • Data Modeling • ETL**
+
+### 📈 Business Intelligence & Visualization
 
 <p align="left">
-  <img src="https://img.icons8.com/color/96/power-bi.png" width="45" height="45" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="45" height="45" alt="Microsoft Excel"/>
-  <img src="https://img.icons8.com/color/96/google-sheets.png" width="45" height="45" alt="Google Sheets"/>
-  <img src="https://img.icons8.com/color/96/microsoft-fabric.png" width="45" height="45" alt="Microsoft Fabric"/>
+  <img src="https://img.icons8.com/color/144/power-bi.png" width="70" height="70" alt="Power BI"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/144/microsoft-excel-2019.png" width="70" height="70" alt="Microsoft Excel"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/144/google-sheets.png" width="70" height="70" alt="Google Sheets"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/144/microsoft-fabric.png" width="70" height="70" alt="Microsoft Fabric"/>
 </p>
 
-### 🧰 Development & Tools
+**DAX • KPI Tracking • Dashboard Development • Data Visualization • Business Intelligence**
+
+### 📉 Python Visualization Libraries
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70" height="70" alt="Matplotlib"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="70" height="70" alt="Seaborn"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="70" height="70" alt="Plotly"/>
+</p>
+
+### 🧰 Development & Version Control
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" height="70" alt="Visual Studio Code"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" alt="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="70" alt="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="70" height="70" alt="FastAPI"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
-  <img src="https://img.icons8.com/color/96/google-gemini.png" width="45" height="45" alt="Gemini AI"/>
+  <img src="https://img.icons8.com/color/144/google-gemini.png" width="70" height="70" alt="Gemini AI"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70" alt="Scikit-learn"/>
 </p>
+
+**Machine Learning Fundamentals**
 
 ## 📂 Featured Projects
 
