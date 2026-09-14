@@ -22,52 +22,50 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Querying
+## 🛠️ Technical Skills
 
-* Python
-* SQL
-* MySQL
-* SQL Server
+### 💻 Programming & Query Languages
 
-### 📊 Data Analysis
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="SQL Server"/>
+</p>
 
-* Exploratory Data Analysis (EDA)
-* Data Cleaning
-* Data Preprocessing
-* Data Validation & Quality Checks
-* Statistical Analysis
-* Data Modeling
-* ETL
+### 📊 Data Analytics & Visualization
 
-### 📈 Business Intelligence & Visualization
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="45" height="45" alt="Plotly"/>
+</p>
 
-* Power BI
-* DAX
-* KPI Tracking
-* Dashboard Development
-* Data Visualization
-* Business Intelligence
+### 📈 Business Intelligence
 
-### 🐍 Python Libraries
+<p align="left">
+  <img src="https://img.icons8.com/color/96/power-bi.png" width="45" height="45" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="45" height="45" alt="Microsoft Excel"/>
+  <img src="https://img.icons8.com/color/96/google-sheets.png" width="45" height="45" alt="Google Sheets"/>
+  <img src="https://img.icons8.com/color/96/microsoft-fabric.png" width="45" height="45" alt="Microsoft Fabric"/>
+</p>
 
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Plotly
-* Jupyter Notebook
+### 🧰 Development & Tools
 
-### 📑 Other Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
+</p>
 
-* Microsoft Excel
-* Google Sheets
-* Visual Studio Code
-* GitHub
-* FastAPI
-* Gemini AI
-* Machine Learning Fundamentals
+### 🤖 AI & Machine Learning
 
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+  <img src="https://img.icons8.com/color/96/google-gemini.png" width="45" height="45" alt="Gemini AI"/>
+</p>
 
 ## 📂 Featured Projects
 
