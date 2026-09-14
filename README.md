@@ -39,9 +39,9 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="70" height="70" alt="NumPy"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70" alt="Machine Learning"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="70" height="70" alt="Jupyter Notebook"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70" alt="Scikit-learn"/>
 </p>
 
 **EDA • Data Cleaning • Data Preprocessing • Data Validation • Statistical Analysis • Data Modeling • ETL**
@@ -88,9 +88,13 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
   <img src="https://img.icons8.com/color/144/google-gemini.png" width="70" height="70" alt="Gemini AI"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70" alt="Scikit-learn"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/000000" width="70" height="70" alt="ChatGPT"/>
 </p>
 
-**Machine Learning Fundamentals**
+**Machine Learning Fundamentals • AI-Assisted Data Analysis**
+
+
 ## 📂 Featured Projects
 
 ### ✈️ AirFly Insights — Airline Operations Data Analysis
