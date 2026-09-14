@@ -22,8 +22,6 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
 
 ## 🛠️ Technical Skills
 
-## 🛠️ Technical Skills
-
 ### 💻 Programming & Query Languages
 
 <p align="left">
@@ -93,7 +91,6 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
 </p>
 
 **Machine Learning Fundamentals**
-
 ## 📂 Featured Projects
 
 ### ✈️ AirFly Insights — Airline Operations Data Analysis
