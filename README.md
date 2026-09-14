@@ -25,69 +25,109 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
 ### 💻 Programming & Query Languages
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="75" height="75" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="75" height="75" alt="SQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="75" height="75" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="75" height="75" alt="SQL Server"/>
 </p>
 
 ### 📊 Data Analytics & Data Engineering
 
 <p align="left">
-  <img src="https://img.shields.io/badge/EDA-306998?style=for-the-badge" alt="EDA"/>
-  <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge" alt="Data Cleaning"/>
-  <img src="https://img.shields.io/badge/Data%20Preprocessing-2196F3?style=for-the-badge" alt="Data Preprocessing"/>
-  <img src="https://img.shields.io/badge/Data%20Validation-607D8B?style=for-the-badge" alt="Data Validation"/>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-673AB7?style=for-the-badge" alt="Statistical Analysis"/>
-  <img src="https://img.shields.io/badge/ETL-FF9800?style=for-the-badge" alt="ETL"/>
-  <img src="https://img.shields.io/badge/Data%20Modeling-795548?style=for-the-badge" alt="Data Modeling"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="75" height="75" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="75" height="75" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="75" height="75" alt="Scikit-learn"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/EDA-306998?style=for-the-badge" height="38" alt="EDA"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge" height="38" alt="Data Cleaning"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data%20Preprocessing-2196F3?style=for-the-badge" height="38" alt="Data Preprocessing"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data%20Validation-607D8B?style=for-the-badge" height="38" alt="Data Validation"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Statistical%20Analysis-673AB7?style=for-the-badge" height="38" alt="Statistical Analysis"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/ETL-FF9800?style=for-the-badge" height="38" alt="ETL"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data%20Modeling-795548?style=for-the-badge" height="38" alt="Data Modeling"/>
 </p>
 
 ### 📈 Business Intelligence & Visualization
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX"/>
-  <img src="https://img.shields.io/badge/KPI%20Tracking-1F4E78?style=for-the-badge" alt="KPI Tracking"/>
-  <img src="https://img.shields.io/badge/Dashboard%20Development-0078D4?style=for-the-badge" alt="Dashboard Development"/>
-  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge" alt="Data Visualization"/>
-  <img src="https://img.shields.io/badge/Business%20Intelligence-2E75B6?style=for-the-badge" alt="Business Intelligence"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="75" height="75" alt="Power BI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="75" height="75" alt="DAX"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="75" height="75" alt="Plotly"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/KPI%20Tracking-1F4E78?style=for-the-badge" height="38" alt="KPI Tracking"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dashboard%20Development-0078D4?style=for-the-badge" height="38" alt="Dashboard Development"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge" height="38" alt="Data Visualization"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Business%20Intelligence-2E75B6?style=for-the-badge" height="38" alt="Business Intelligence"/>
 </p>
 
 ### 🐍 Python Libraries & Analytics Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C9BD6?style=for-the-badge" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="75" height="75" alt="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="75" height="75" alt="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="75" height="75" alt="Matplotlib"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/seaborn/4C9BD6" width="75" height="75" alt="Seaborn"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="75" height="75" alt="Plotly"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" width="75" height="75" alt="Jupyter Notebook"/>
 </p>
 
 ### 📑 Microsoft & Productivity Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel"/>
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Fabric-117865?style=for-the-badge&logo=microsoftfabric&logoColor=white" alt="Microsoft Fabric"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="75" height="75" alt="Microsoft Excel"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="75" height="75" alt="Google Sheets"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftfabric/117865" width="75" height="75" alt="Microsoft Fabric"/>
 </p>
 
 ### 🧰 Development & Version Control
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="75" height="75" alt="Visual Studio Code"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="75" height="75" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717" width="75" height="75" alt="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="75" height="75" alt="FastAPI"/>
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini AI"/>
-  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="75" height="75" alt="Google Gemini AI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/412991" width="75" height="75" alt="ChatGPT"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="75" height="75" alt="Machine Learning"/>
 </p>
 
 **Machine Learning Fundamentals • AI-Assisted Data Analysis**
