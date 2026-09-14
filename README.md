@@ -41,7 +41,7 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/numpy/013243" width="75" height="75" alt="NumPy"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="75" height="75" alt="Scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="75" height="75" alt="Machine Learning"/>
 </p>
 
 <p align="left">
@@ -67,9 +67,7 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
 <p align="left">
   <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="75" height="75" alt="Power BI"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="75" height="75" alt="DAX"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="75" height="75" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge" height="38" alt="DAX"/>
 </p>
 
 <p align="left">
@@ -85,10 +83,6 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
 ### 🐍 Python Libraries & Analytics Tools
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="75" height="75" alt="Pandas"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="75" height="75" alt="NumPy"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="75" height="75" alt="Matplotlib"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/seaborn/4C9BD6" width="75" height="75" alt="Seaborn"/>
@@ -126,8 +120,6 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
   <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="75" height="75" alt="Google Gemini AI"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/openai/412991" width="75" height="75" alt="ChatGPT"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="75" height="75" alt="Machine Learning"/>
 </p>
 
 **Machine Learning Fundamentals • AI-Assisted Data Analysis**
