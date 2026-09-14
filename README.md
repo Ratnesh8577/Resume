@@ -55,7 +55,7 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/144/google-sheets.png" width="70" height="70" alt="Google Sheets"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/144/microsoft-fabric.png" width="70" height="70" alt="Microsoft Fabric"/>
+  <img src="https://cdn.simpleicons.org/microsoftfabric/117865" width="70" height="70" alt="Microsoft Fabric"/>
 </p>
 
 **DAX • KPI Tracking • Dashboard Development • Data Visualization • Business Intelligence**
@@ -65,7 +65,7 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="70" height="70" alt="Matplotlib"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="70" height="70" alt="Seaborn"/>
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="70" alt="Seaborn"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="70" height="70" alt="Plotly"/>
 </p>
@@ -85,15 +85,12 @@ I work with **Python, SQL, Power BI, Excel, and data visualization tools** to cl
 ### 🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://img.icons8.com/color/144/google-gemini.png" width="70" height="70" alt="Gemini AI"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="70" height="70" alt="Scikit-learn"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="70" height="70" alt="Google Gemini AI"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/openai/000000" width="70" height="70" alt="ChatGPT"/>
 </p>
 
 **Machine Learning Fundamentals • AI-Assisted Data Analysis**
-
 
 ## 📂 Featured Projects
 
